@@ -1,18 +1,17 @@
 ## Special Items
 
-| AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat                | inkay#5122    |
-| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | [Crimson Agate](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#crimson-agatezip)         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
-| 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | [Geoculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#geoculuszip)              | Teyvat                | inkay#5122    |
-| 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | [Electroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#electroculuszip)          | Teyvat                | inkay#5122    |
-| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenspar](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumensparzip)             | The Chasm Underground | emma1259#3965 |
-| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenstone Ore](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip)[^1] | The Chasm Underground | emma1259#3965 |
+| AddTime    | Img                                                   | Name/ID               | World                 
+| ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
+| 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat              
+| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | [Crimson Agate](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#crimson-agatezip)         | Teyvat               
+| 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | [Geoculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#geoculuszip)              | Teyvat               
+| 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | [Electroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#electroculuszip)          | Teyvat              (https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumensparzip)             | The Chasm Underground 
+| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenstone Ore](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip)[^1] | The Chasm Underground 
 | 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | [Key Sigil](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#key-sigilzip)             | Enkanomiya            | allencross#6363|
-| 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#dendroculuszip)[^2]       | Teyvat                | inkay#5122    |
-| 2023/01/19 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus 3.4](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Dendroculus#34zip)[^3]       | Teyvat                | 空白#0099 |
-| 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#sacred-sealzip)           | Teyvat                | Misuki#9695   |
-| 2023/01/19 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal 3.4](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Sacred%20Seal#34zip)           | Teyvat                | 空白#0099 |
+| 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#dendroculuszip)[^2]       | Teyvat                
+| 2023/01/19 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus 3.4](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Dendroculus#34zip)[^3]       | Teyvat              
+| 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#sacred-sealzip)           | Teyvat               
+| 2023/01/19 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal 3.4](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Sacred%20Seal#34zip)           | Teyvat                
 
 ## Local Specialties
 
